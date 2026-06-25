@@ -1,4 +1,4 @@
-- Heaven only knows just why, loving you should make me cry, make me feel like i could die, that's the way it goes.
+Never Give Up
 - https://leetcode.com/skhattar111/
 
 <!---
